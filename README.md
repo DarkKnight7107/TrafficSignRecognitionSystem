@@ -24,4 +24,5 @@
 ### Creating a Custom Dataset with Fine-Tuned YOLO (Image Collection & Annotation) and Further Fine-Tuning
 - **Code**: [`YOLO_fine_tuned_v02.ipynb`](YOLO_fine_tuned_v02.ipynb), [`YOLO_Prepare_Data.ipynb`](YOLO_Prepare_Data.ipynb)
 - **Dataset**: Custom prepared dataset
+- **Refrences**: [Traffic Signs Meanings](https://routetogermany.com/drivingingermany/road-signs)
 - **Model**: `yolov8_fine_tuned_v02.pt`
